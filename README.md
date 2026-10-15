@@ -1,0 +1,2 @@
+# goldsmiths_Thursday
+this is a repo for the goldsmiths MA Thursday afternoon session.
